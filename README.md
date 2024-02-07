@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @killerbit
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently well versed in Selenium Java frameworks/TestNG/Cucumber/Mobile Auotomation/CICD implementation
+- 🌱 I’m currently well versed in Selenium Java frameworks/TestNG/Cucumber/Rest Api/Mobile Auotomation/CICD implementation
 - 💞️ Always ready to explore new tech
 - 📫 How to reach me khavanekar@hotmail.com
 

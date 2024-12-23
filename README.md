@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @killerbit
+- 👨‍⚖️ Wirks at EY - Senior Consultant 
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently well versed in Selenium Java frameworks/TestNG/Cucumber/Rest Api/Mobile Auotomation/CICD implementation
 - 💞️ Always ready to explore new tech
